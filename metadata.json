@@ -1,0 +1,5 @@
+{
+  "name": "Copy of StegaCrypt: Reversible Data Hiding",
+  "description": "An application to demonstrate reversible data hiding in encrypted images. Users can upload an image, provide a secret message and a key to generate an encrypted image with the hidden data. The process is reversible, allowing the extraction of the message and recovery of the original image with the correct key.",
+  "requestFramePermissions": []
+}
